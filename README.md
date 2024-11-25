@@ -11,4 +11,4 @@
 <ul>
   <li>Ignacio Pérez</li>
 </ul>
-<h3></h3>
+<h2>Componentes del sistema</h2>
