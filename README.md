@@ -23,4 +23,5 @@
   <li>Cable USB-A a Micro USB</li>
   <li>Cable USB-A a USB-B</li>
 </ul>
-<h2>Objetivos a futuro:</h2>
+<h2>Objetivo a futuro:</h2>
+<p>El objetivo a futuro de nuestro proyecto es permitir que el sistema de automatización se active mediante un control remoto, evitando que la puerta del garaje se abra con la detección de cualquier objeto.</p>
