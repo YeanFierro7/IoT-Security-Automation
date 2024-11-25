@@ -20,7 +20,7 @@
   <li>Sensor PIR</li>
   <li>Sensor HC-SR04</li>
   <li>Zumbador Buzzer</li>
-  <li>Cable USB a Micro USB</li>
-  <li>Cable USB a USB-B</li>
+  <li>Cable USB-A a Micro USB</li>
+  <li>Cable USB-A a USB-B</li>
 </ul>
 <h2>Objetivos a futuro:</h2>
