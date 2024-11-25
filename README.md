@@ -25,4 +25,6 @@
 </ul>
 <h2>Objetivo a futuro:</h2>
 <p>El objetivo a futuro de nuestro proyecto es permitir que el sistema de automatización se active mediante un control remoto, evitando que la puerta del garaje se abra con la detección de cualquier objeto.</p>
+<h2>Avances en estructura de cableado</h2>
+<h3>Sistema de alarma</h3>
 <img src="Photos/Sistema de Alarma/Alarma.png"></img>
