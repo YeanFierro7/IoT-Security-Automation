@@ -13,3 +13,11 @@
 </ul>
 <h2>Componentes del circuito</h2>
 <p>En esta sección, se mencionan los componentes seleccionados para la construcción del sistema de automatización y seguridad.</p>
+<ul>
+  <li>Node MCU ESP8266 WiFi</li>
+  <li>Arduino Uno R3</li>
+  <li>Servomotor Digital SG90</li>
+  <li>Sensor PIR</li>
+  <li>Sensor HC-SR04</li>
+  <li>Zumbador Buzzer</li>
+</ul>
