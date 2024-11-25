@@ -28,3 +28,5 @@
 <h2>Avances en estructura de cableado</h2>
 <h3>Sistema de alarma</h3>
 <img src="Photos/Sistema de Alarma/Alarma.png" alt="Imagen del circuito de alarma" title="Sistema de alarma"></img>
+<h3>Sistema de automatización</h3>
+<img src="Photos/Sistema de Automatización/Automation.png" alt="Imagen del circuito de automatización" title="Sistema de automatización"></img>
