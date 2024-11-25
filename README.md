@@ -2,8 +2,6 @@
 <h2>Objetivo:</h2>
 <p>El objetivo principal del proyecto es desarrollar un sistema de seguridad y automatización, que busca evitar que los propietarios realicen acciones manuales en donde ellos puedan verse en una situación de peligro y además se busca alertar a los propietarios de movimientos extraños en sus propiedades.</p>
 <h3>Integrantes:</h3>
-- Yean Pierre Fierro
-* Francisco Aguayo
-+ Javier López
+- Yean Pierre Fierro Francisco Aguayo Javier López 
 <h3></h3>
 <h3></h3>
