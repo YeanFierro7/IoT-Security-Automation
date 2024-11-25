@@ -7,5 +7,8 @@
   <li>Francisco Aguayo</li>
   <li>Javier López</li>
 </ul>
-<h3></h3>
+<h3>Docente:</h3>
+<ul>
+  <li>Ignacio Pérez</li>
+</ul>
 <h3></h3>
