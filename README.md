@@ -11,4 +11,5 @@
 <ul>
   <li>Ignacio Pérez</li>
 </ul>
-<h2>Componentes del sistema</h2>
+<h2>Componentes del circuito</h2>
+<p>En esta sección, se mencionan los componentes seleccionados para la construcción del sistema de automatización y seguridad.</p>
