@@ -23,3 +23,4 @@
   <li>Cable USB a Micro USB</li>
   <li>Cable USB a USB-B</li>
 </ul>
+<h2>Objetivos a futuro:</h2>
